@@ -7,7 +7,7 @@
 
 IthmiaMCLink (the **Bot**) is operated by the IthmiaMC community administrator (the **Operator**) to connect the IthmiaMC Discord server and Minecraft server (`play.ithmiamc.quest`).
 
-**Privacy contact:** [REPLACE WITH A WORKING CONTACT EMAIL OR SUPPORT LINK]
+**Privacy contact:** arborealguitarist@gmail.com
 
 This policy describes data processed by the Bot and its associated Minecraft plugins. Discord, Microsoft/Minecraft, and hosting providers also process data under their own policies.
 
