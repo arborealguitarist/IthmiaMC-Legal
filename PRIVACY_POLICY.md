@@ -62,7 +62,7 @@ Operational logs, backups, and moderation records may persist separately from th
 
 For access, correction, unlinking, or deletion requests, contact:
 
-[REPLACE WITH A WORKING CONTACT EMAIL OR SUPPORT LINK]
+arborealguitarist@gmail.com
 
 Identify the relevant Discord username or ID and/or Minecraft username, but **do not send passwords, login tokens, or linking codes**. The Operator may request reasonable verification of account control. Requests will be reviewed and actioned consistent with applicable law and Discord's requirements. Some information may need to remain where legally required or where it is part of another user's messages or records.
 
@@ -96,4 +96,4 @@ The Operator may update this policy when the Bot's functionality, data practices
 ## 11. Contact
 
 **IthmiaMC Operator**  
-[REPLACE WITH A WORKING CONTACT EMAIL OR SUPPORT LINK]
+arborealguitarist@gmail.com
