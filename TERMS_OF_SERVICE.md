@@ -9,7 +9,7 @@ IthmiaMCLink (the **Bot**) is a Discord integration operated by the IthmiaMC com
 
 The Minecraft server is available at `play.ithmiamc.quest`. The community map is at <https://map.ithmiamc.quest>.
 
-**Contact:** [REPLACE WITH A WORKING CONTACT EMAIL OR SUPPORT LINK]
+**Contact:** arborealguitarist@gmail.com
 
 These Terms govern your use of IthmiaMCLink. They do not replace Discord's terms, Minecraft's terms, or community rules applicable to the relevant servers.
 
