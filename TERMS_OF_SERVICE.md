@@ -74,4 +74,4 @@ The Operator may revise these Terms. The current version will be posted at the p
 For questions, reporting abuse, or account-linking concerns, contact:
 
 **IthmiaMC Operator**  
-[REPLACE WITH A WORKING CONTACT EMAIL OR SUPPORT LINK]
+arborealguitarist@gmail.com
